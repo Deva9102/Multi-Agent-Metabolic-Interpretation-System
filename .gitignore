@@ -1,0 +1,25 @@
+.env
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local subject/health data — real per-subject health records, both
+# the raw R2 pull and the extracted/processed files cgm_data.py reads
+# from.
+data/
+data_agent/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
