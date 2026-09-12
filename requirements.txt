@@ -1,0 +1,8 @@
+boto3
+pandas
+requests
+openai>=1.0.0
+langgraph>=0.2.0
+python-dotenv
+pyarrow
+streamlit
